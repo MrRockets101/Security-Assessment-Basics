@@ -135,7 +135,7 @@ Completion Time (Weeks)
      R1    R2    R3    R4    R5
 ```
 
-_Legend: R1 = Shared Admin Passwords (1 personnel), R2 = Lack of Backup (2 personnel), R3 = Use of Personal Email (1 personnel), R4 = Use of Public WiFi (1 personnel), R5 = Lack of Training/Updates (13 personnel rotating each week)_
+\_Legend: R1 = Shared Admin Passwords (1 personnel), R2 = Lack of Backup (2 personnel), R3 = Use of Personal Email (1 personnel), R4 = Use of Public WiFi (1 personnel), R5 = Lack of Training/Updates (13 personnel rotating each week)
 
 ## Security Checklist
 
