@@ -137,34 +137,34 @@ Completion Time (Weeks)
 
 \_Legend: R1 = Shared Admin Passwords (1 personnel), R2 = Lack of Backup (2 personnel), R3 = Use of Personal Email (1 personnel), R4 = Use of Public WiFi (1 personnel), R5 = Lack of Training/Updates (13 personnel rotating each week)
 
-## Security Checklist
+### Security Checklist
 
-### Daily Tasks
+## Daily Tasks
 
 - Check for suspicious emails or links.
 - Ensure VPN is active on public networks.
 - Verify system updates are applied.
 
-### Weekly Tasks
+## Weekly Tasks
 
 - Review access logs for anomalies.
 - Update passwords if needed.
 - Backup critical data manually if automated system fails.
 
-### Monthly Tasks
+## Monthly Tasks
 
 - Run security scans on systems.
 - Review and update security policies.
 - Conduct phishing simulation exercises.
 
-### Employee Best Practices
+## Employee Best Practices
 
 - Use strong, unique passwords.
 - Enable MFA on all accounts.
 - Report suspicious activities immediately.
 - Avoid using personal devices for sensitive work.
 
-### Emergency Response Procedures
+## Emergency Response Procedures
 
 - **Data Breach:** Isolate affected systems, notify stakeholders, engage incident response team.
 - **Phishing Incident:** Quarantine affected accounts, change passwords, investigate source.
